@@ -2,6 +2,14 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Dependencies and Libraries
+1. npm i react-alice-carousel
+2. npm install -D tailwindcss
+3. npx tailwindcss init
+4. npm i @heroicons/react
+5. npm i @headlessui/react
+6. npm install @mui/icons-material @mui/material @emotion/styled @emotion/react=
+7. npm install react-router-dom
 ## Available Scripts
 
 In the project directory, you can run:
